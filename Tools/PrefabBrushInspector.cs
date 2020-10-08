@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-
+//this file Should be attached to a emty game object in your scene. you will then be able to use this tool
+//make sure you have the Editor script as well
 [System.Serializable]
 public class PrefabBrushInspector : MonoBehaviour
 {
